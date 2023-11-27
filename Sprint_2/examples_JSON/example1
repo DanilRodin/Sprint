@@ -1,0 +1,40 @@
+{
+    "pereval": {
+        "status": "new",
+        "beautyTitle": "poss",
+        "title": "Третий Тестовый перевал",
+        "other_titles": "изменил название",
+        "connect": "изменил текст соединяет две равнины",
+        "add_time": "2023-09-17T07:25:02.737496Z",
+        "coord_id": {
+            "latitude": 50.256,
+            "longitude": 77.596,
+            "height": 1300
+        },
+        "levels": {
+            "winter": "1A",
+            "summer": "1A",
+            "autumn": "1A",
+            "spring": ""
+        },
+        "user": {
+            "mail": "User9@example.com",
+            "phone": "89258763215",
+            "name": "Pavel",
+            "surname": "Ivanov",
+            "otch": "Petrovich"
+        },
+        "images": [
+            {
+                "name": "Седловина",
+                "photos": "/home/nazrinrus/Рабочий стол/фото для перевала/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE.jpg",
+                "pereval": 30
+            },
+            {
+                "name": "Седловина",
+                "photos": "/home/nazrinrus/Рабочий стол/фото для перевала/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE.jpg",
+                "pereval": 30
+            }
+        ]
+    }
+}
